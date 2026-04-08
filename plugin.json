@@ -4,6 +4,7 @@
 	"name": "Acode Plugin Template",
 	"main": "dist/main.js",
 	"version": "0.0.1",
+	"repository": "https://github.com/hallofcodes/acode-plugin-template",
 	"readme": "./readme.md",
 	"repository": "https://github.com/hallofcodes/acode-plugin-template",
 	"theme": "",
