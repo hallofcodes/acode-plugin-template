@@ -5,6 +5,7 @@
 	"main": "dist/main.js",
 	"version": "0.0.1",
 	"readme": "./readme.md",
+	"repository": "https://github.com/hallofcodes/acode-plugin-template",
 	"theme": "",
 	"themeType": "editor",
 	"icon": "icon.svg",
@@ -13,11 +14,8 @@
 	"license": "MIT",
 	"minVersionCode": 290,
 	"price": 0,
-	"author": [
-		{
-			"name": "dconco",
-			"github": "dconco",
-			"email": "concodave@gmail.com"
-		},
-	]
+	"author": {
+		"name": "dconco",
+		"github": "dconco"
+	}
 }
